@@ -16,28 +16,32 @@
 
 👉 https://vipinanalytics.tech
 
-This repository contains the source code for my **personal Data Analytics portfolio website**.
+This repository contains the source code for my **Data Analytics Portfolio Website** built to showcase my **skills, projects, dashboards, and analytics experience**.
 
-The portfolio showcases my **skills, analytics projects, dashboards, and experience in data analysis**.
+---
+
+# 🖼 Portfolio Preview
+
+![Portfolio Preview](https://via.placeholder.com/1200x600?text=Vipin+Maurya+Portfolio)
 
 ---
 
 # 👨‍💻 About Me
 
-Hi, I'm **Vipin Maurya**, an aspiring **Data Analyst** passionate about analyzing data and building dashboards that generate meaningful business insights.
+Hi, I'm **Vipin Maurya**, an aspiring **Data Analyst** passionate about turning data into meaningful insights.
 
-Currently pursuing **Bachelor of Computer Applications (BCA)** and building real-world analytics projects using modern data tools.
+I enjoy working with datasets, building dashboards, and helping businesses make data-driven decisions.
+
+🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**.
 
 ---
 
 # 🚀 Tech Stack
 
-This portfolio website is built using:
-
-* HTML5
-* CSS3
-* JavaScript
-* jQuery
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 
 ### Libraries & Tools
 
@@ -47,17 +51,15 @@ This portfolio website is built using:
 * ScrollReveal
 * Font Awesome
 * Tawk.to Live Chat
-* JSON
 
 ---
 
 # 📊 Data Analytics Skills
 
-• Excel (Pivot Tables, Data Cleaning, Dashboards)
-• SQL (Data Querying & Analysis)
-• Python (Pandas, Data Analysis)
-• Power BI (Interactive Dashboards)
-• Data Visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 ---
 
@@ -75,15 +77,26 @@ The website includes the following sections:
 
 ---
 
-# 📬 Contact
+# 📊 Featured Projects
 
-If you'd like to connect regarding **Data Analytics opportunities or collaboration**, feel free to reach out.
+Some analytics projects included in my portfolio:
+
+• Excel Sales Dashboard
+• SQL Data Analysis
+• Power BI Business Dashboard
+• Python Data Analysis
+
+More projects will be added as I continue building my analytics portfolio.
+
+---
+
+# 📬 Contact
 
 📧 Email
 [nextstopuk.vipin@gmail.com](mailto:nextstopuk.vipin@gmail.com)
 
 💼 LinkedIn
-https://www.linkedin.com/in/vipin-maurya-96286a25b
+https://www.linkedin.com/in/vipinanalyst
 
 💻 GitHub
 https://github.com/vipin-data
@@ -95,7 +108,7 @@ https://vipinanalytics.tech
 
 # ⭐ Support
 
-If you like this portfolio or find it useful, please consider **starring the repository ⭐**
+If you like this project or find it useful, please consider **starring the repository ⭐**
 
 ---
 
